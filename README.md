@@ -944,9 +944,9 @@ It is also a good practice to annotate overridden methods with `@Override` to ma
 
 * What is `Context`? How is it used? [Medium](https://medium.com/p/understanding-context-in-android-application-330913e32514)
 
-* What is `AndroidManifest.xml`?
+* What is `AndroidManifest.xml`? [Android Official](https://developer.android.com/guide/topics/manifest/manifest-intro)
 
-* What is `Application` class?
+* What is `Application` class? [Android Official](https://developer.android.com/reference/android/app/Application)
 
 #### Activity
 
